@@ -1,0 +1,348 @@
+CREATE TABLE pptFID0
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='0';
+CREATE TABLE pptFID1
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='1';
+CREATE TABLE pptFID2
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='2';
+CREATE TABLE pptFID3
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='3';
+CREATE TABLE pptFID4
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='4';
+CREATE TABLE pptFID5
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='5';
+CREATE TABLE pptFID6
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='6';
+CREATE TABLE pptFID7
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='7';
+CREATE TABLE pptFID8
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='8';
+CREATE TABLE pptFID9
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='9';
+CREATE TABLE pptFID10
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='10';
+CREATE TABLE pptFID11
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='11';
+CREATE TABLE pptFID12
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='12';
+CREATE TABLE pptFID13
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='13';
+CREATE TABLE pptFID14
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='14';
+CREATE TABLE pptFID15
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='15';
+CREATE TABLE pptFID16
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='16';
+CREATE TABLE pptFID17
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='17';
+CREATE TABLE pptFID18
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='18';
+CREATE TABLE pptFID19
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='19';
+CREATE TABLE pptFID20
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='20';
+CREATE TABLE pptFID21
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='21';
+CREATE TABLE pptFID22
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='22';
+CREATE TABLE pptFID23
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='23';
+CREATE TABLE pptFID24
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='24';
+CREATE TABLE pptFID25
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='25';
+CREATE TABLE pptFID26
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='26';
+CREATE TABLE pptFID27
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='27';
+CREATE TABLE pptFID28
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='28';
+CREATE TABLE pptFID29
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='29';
+CREATE TABLE pptFID30
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='30';
+CREATE TABLE pptFID31
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='31';
+CREATE TABLE pptFID32
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='32';
+CREATE TABLE pptFID33
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='33';
+CREATE TABLE pptFID34
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='34';
+CREATE TABLE pptFID35
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='35';
+CREATE TABLE pptFID36
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='36';
+CREATE TABLE pptFID37
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='37';
+CREATE TABLE pptFID38
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='38';
+CREATE TABLE pptFID39
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='39';
+CREATE TABLE pptFID40
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='40';
+CREATE TABLE pptFID41
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='41';
+CREATE TABLE pptFID42
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='42';
+CREATE TABLE pptFID43
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='43';
+CREATE TABLE pptFID44
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='44';
+CREATE TABLE pptFID45
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='45';
+CREATE TABLE pptFID46
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='46';
+CREATE TABLE pptFID47
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='47';
+CREATE TABLE pptFID48
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='48';
+CREATE TABLE pptFID49
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='49';
+CREATE TABLE pptFID50
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='50';
+CREATE TABLE pptFID51
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='51';
+CREATE TABLE pptFID52
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='52';
+CREATE TABLE pptFID53
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='53';
+CREATE TABLE pptFID54
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='54';
+CREATE TABLE pptFID55
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='55';
+CREATE TABLE pptFID56
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='56';
+CREATE TABLE pptFID57
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='57';
+CREATE TABLE pptFID58
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='58';
+CREATE TABLE pptFID59
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='59';
+CREATE TABLE pptFID60
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='60';
+CREATE TABLE pptFID61
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='61';
+CREATE TABLE pptFID62
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='62';
+CREATE TABLE pptFID63
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='63';
+CREATE TABLE pptFID64
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='64';
+CREATE TABLE pptFID65
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='65';
+CREATE TABLE pptFID66
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='66';
+CREATE TABLE pptFID67
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='67';
+CREATE TABLE pptFID68
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='68';
+CREATE TABLE pptFID69
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='69';
+CREATE TABLE pptFID70
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='70';
+CREATE TABLE pptFID71
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='71';
+CREATE TABLE pptFID72
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='72';
+CREATE TABLE pptFID73
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='73';
+CREATE TABLE pptFID74
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='74';
+CREATE TABLE pptFID75
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='75';
+CREATE TABLE pptFID76
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='76';
+CREATE TABLE pptFID77
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='77';
+CREATE TABLE pptFID78
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='78';
+CREATE TABLE pptFID79
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='79';
+CREATE TABLE pptFID80
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='80';
+CREATE TABLE pptFID81
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='81';
+CREATE TABLE pptFID82
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='82';
+CREATE TABLE pptFID83
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='83';
+CREATE TABLE pptFID84
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='84';
+CREATE TABLE pptFID85
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='85';
+CREATE TABLE pptFID86
+AS SELECT key,date,sumPPTday
+FROM tbl1981v2
+WHERE fid='86';
